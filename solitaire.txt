@@ -76,3 +76,9 @@ logging-gateway.vungle.io
 1680325991.rsc.cdn77.org
 1680325991.rsc.cdn77.org
 1330184836.rsc.cdn77.org
+icensing.mp.microsoft.com
+e81481.dsca.akamaiedge.net
+wcpstatic.microsoft.com
+e87.dspg.akamaiedge.net
+sparkcdneus2.azureedge.net
+store-images.microsoft.com
