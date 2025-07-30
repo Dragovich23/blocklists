@@ -82,3 +82,6 @@ wcpstatic.microsoft.com
 e87.dspg.akamaiedge.net
 sparkcdneus2.azureedge.net
 store-images.microsoft.com
+googleads.g.doubleclick.net
+mobile.adsafeprotected.com
+dt.adsafeprotected.com
